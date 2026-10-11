@@ -1,0 +1,1 @@
+[project]\nname = "genpark-autonomous-cross-platform-social-workflow-scheduler-skill"\nversion = "1.0.0"\ndescription = "Adapts core content into platform-native formats and computes optimal posting windows across social channels"\nreadme = "README.md"\nrequires-python = ">=3.9"\ndependencies = []\n
