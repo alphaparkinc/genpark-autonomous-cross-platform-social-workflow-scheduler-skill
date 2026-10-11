@@ -1,0 +1,8 @@
+{
+  "name": "genpark-autonomous-cross-platform-social-workflow-scheduler-skill",
+  "version": "1.0.0",
+  "description": "Adapts core content into platform-native formats and computes optimal posting windows across social channels",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "license": "MIT"
+}
