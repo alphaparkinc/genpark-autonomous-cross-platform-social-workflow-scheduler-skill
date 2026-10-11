@@ -1,0 +1,1 @@
+# genpark-autonomous-cross-platform-social-workflow-scheduler-skill\n\nAdapts core content into platform-native formats and computes optimal posting windows across social channels.\n\n100% Python Standard Library implementation with zero external dependencies.
